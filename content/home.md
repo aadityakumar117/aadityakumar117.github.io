@@ -4,7 +4,7 @@ I am a Ph.D. scholar in the Department of Electrical Engineering at IIT Madras, 
 
 ## Research Interests
 
-- Inverse Problems in Linear-Quadratic Differential Games(LQDG)
+- Inverse Problems in Linear-Quadratic Differential Games (LQDG)
 - Inverse Differential Games with Descriptor Dynamics
 - Credible Incentive Equilibrium Strategies in Static and Dynamic Network Games
 - Optimal Control
