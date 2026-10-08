@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <!-- EDIT: page title and description shown in browser tabs and search results -->
+    <title>Aaditya Kumar - IIT Madras</title>
+    <meta name="description" content="Aaditya Kumar, Ph.D. scholar in Electrical Engineering at IIT Madras, working on inverse problems and incentive strategies in differential games.">
+
+    <link rel="stylesheet" href="style.css">
+    <script defer src="https://cdn.jsdelivr.net/npm/marked@12.0.2/marked.min.js"></script>
+    <!-- MathJax lets you write LaTeX in the markdown files: \\( x^2 \\) inline, $$ ... $$ displayed -->
+    <script>
+        window.MathJax = { tex: { inlineMath: [['\\(', '\\)']], displayMath: [['$$', '$$']] } };
+    </script>
+    <script defer src="https://cdn.jsdelivr.net/npm/mathjax@3.2.2/es5/tex-mml-chtml.js"></script>
+    <script defer src="script.js"></script>
+</head>
+
+<body>
+    <div class="wrap">
+
+        <!-- EDIT: your photo (assets/photo.jpeg), name, position and contact details -->
+        <header class="site-header">
+            <img src="assets/photo.jpeg" alt="Photo of Aaditya Kumar">
+            <div>
+                <h1 class="name">Aaditya Kumar</h1>
+                <p class="role">Ph.D. Scholar (PMRF),
+                    <a href="https://www.ee.iitm.ac.in/dynamic-control/" target="_blank" rel="noopener">Control &amp; Optimization Group</a></p>
+                <p class="affil"><a href="https://www.ee.iitm.ac.in" target="_blank" rel="noopener">Department of Electrical Engineering</a>, IIT Madras &middot; Chennai, India</p>
+                <p class="contact">
+                    <strong>Advisor:</strong> <a href="https://www.ee.iitm.ac.in/vishwa/" target="_blank" rel="noopener">Dr. Puduru Viswanadha Reddy</a><br>
+                    <strong>GitHub:</strong> <a href="https://github.com/aadityakumar117" target="_blank" rel="noopener">aadityakumar117</a> &nbsp;&middot;&nbsp;
+                    <strong>LinkedIn:</strong> <a href="https://www.linkedin.com/in/aadityakumar07" target="_blank" rel="noopener">aadityakumar07</a>
+                    <!-- To show an email address, add before the closing </p>:
+                         <br><strong>Email:</strong> <a href="mailto:you@example.com">you@example.com</a> -->
+                </p>
+            </div>
+        </header>
+
+        <!-- Each tab loads content/<data-page>.md. Add a tab by adding a line here and a matching .md file. -->
+        <nav aria-label="Main">
+            <ul class="nav-menu">
+                <li><a href="#home" data-page="home">Home</a></li>
+                <li><a href="#publications" data-page="publications">Publications</a></li>
+                <li><a href="#projects" data-page="projects">Projects</a></li>
+                <li><a href="#teaching" data-page="teaching">Teaching</a></li>
+            </ul>
+        </nav>
+
+        <main id="content">
+            <p class="status">Loading content&hellip;</p>
+        </main>
+
+        <footer class="site-footer" id="footer"></footer>
+
+    </div>
+
+    <button id="scrollTop" aria-label="Scroll to top">&uarr;</button>
+</body>
+</html>
