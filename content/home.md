@@ -15,7 +15,7 @@ I am a Ph.D. scholar in the Department of Electrical Engineering at IIT Madras, 
 | | |
 |:--|:--|
 | Jan. 2022 - present | Ph.D. in Electrical Engineering, [IIT Madras](https://www.iitm.ac.in), Chennai, India (CGPA 8.66/10) |
-| Jul. 2017 - May 2021 | B.Tech. in Electrical Engineering, [NIT Rourkela](https://www.nitrkl.ac.in), Rourkela, India (CGPA 8.8/10) |
+| Jul. 2017 - May 2021 | B.Tech. in Electrical Engineering, [NIT Rourkela](https://www.nitrkl.ac.in), Rourkela, India (CGPA 8.06/10) |
 | 2015 - 2017 | Higher Secondary, Loyola High School, Patna, Bihar (92.4%) |
 | 2014 - 2015 | Secondary, Loyola High School, Patna, Bihar (CGPA 10/10) |
 
